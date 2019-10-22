@@ -24,6 +24,5 @@
   "homepage": "https://github.com/AndrewKhoo1/StrWrsWeb#readme",
   "engines": {
     "node": "12.12"
-  },
-
+  }
 }
