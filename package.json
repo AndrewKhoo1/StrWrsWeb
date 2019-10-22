@@ -4,6 +4,7 @@
   "description": "STAR WARS",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/AndrewKhoo1/StrWrsWeb#readme",
   "engines": {
-    "node": "10.x"
-  }
+    "node": "12.12"
+  },
+
 }
